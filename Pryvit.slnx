@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Pryvit.Api/Pryvit.Api.csproj" />
+    <Project Path="src/Pryvit.Application/Pryvit.Application.csproj" />
+    <Project Path="src/Pryvit.Domain/Pryvit.Domain.csproj" />
+    <Project Path="src/Pryvit.Infrastructure/Pryvit.Infrastructure.csproj" />
+    <Project Path="src/Pryvit.Worker/Pryvit.Worker.csproj" />
+  </Folder>
+</Solution>
